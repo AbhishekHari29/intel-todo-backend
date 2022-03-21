@@ -1,10 +1,4 @@
-# Itel TODO API
-
-### What is it?
-
-This is a RESTful API, which allow users to manage their tasks.
-
-## HTTP Endpoints
+# Intel TODO API
 
 ### User
 
